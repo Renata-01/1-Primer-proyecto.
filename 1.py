@@ -8,6 +8,9 @@ Modificado por:
 Fecha de modificación:
 Hora:
 '''
+'''
+prueba 1
+'''
 # 2.- ---------------- Importación de módulos y bibliotecas --------------------
 import tkinter as tk
 from tkinter import messagebox
