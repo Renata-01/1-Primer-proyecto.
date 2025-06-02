@@ -10,6 +10,7 @@ Hora:
 '''
 '''
 prueba 1
+prueba 2
 '''
 # 2.- ---------------- Importación de módulos y bibliotecas --------------------
 import tkinter as tk
